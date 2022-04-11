@@ -1,0 +1,22 @@
+.box1 {
+    width: 23%;
+    height: 65%;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.box2 {
+    width: 90px;
+    height: 110px;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 40px;
+    text-align: center;
+}
+.nama {
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    margin-bottom: 50px;
+}

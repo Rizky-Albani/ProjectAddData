@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffe6;
+    font-family: sans-serif;
+    margin: auto;
+    margin-top: 20px;
+}
+.box {
+    width: 95%;
+    height: 95%;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+}
+.header-sertifikat {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+.column {
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.nama-peserta {
+    text-align: center;
+    padding-top: 30px;
+    color:goldenrod;
+    font-size: 40px;
+}
